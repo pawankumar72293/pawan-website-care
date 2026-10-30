@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     title: "Pawan Kumar | Senior Full-Stack Engineer & Website Care",
     description:
       "High-performance web applications and monthly website support starting at $10/mo. 5+ years experience, 25+ delivered projects, available worldwide.",
-    url: "https://pawan.42web.io",
+    url: "https://pawan-website-care.vercel.app",
     siteName: "Pawan Kumar Portfolio",
     locale: "en_US",
     type: "website",
