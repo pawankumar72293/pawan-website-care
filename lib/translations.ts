@@ -229,7 +229,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
 
 export const EXPERIENCE_DATA: ExperienceItem[] = [
   {
-    period: "Jul 2024 - Present",
+    period: "Jul 2026 - Present",
     company: "Independent Web & Software Engineering",
     location: "Remote · Full-Stack & Website Care",
     role: {
@@ -254,7 +254,7 @@ export const EXPERIENCE_DATA: ExperienceItem[] = [
     },
   },
   {
-    period: "Apr 2024 - Jul 2024",
+    period: "Apr 2024 - Jul 2026",
     company: "Jploft Solutions",
     location: "Jaipur, India · Full-Time",
     role: {
@@ -413,7 +413,7 @@ export const PLANS_DATA: PlanItem[] = [
   {
     id: "care",
     name: { en: "Business Pro", es: "Negocio Pro" },
-    price: "$19",
+    price: "$29",
     period: { en: "/ month", es: "/ mes" },
     note: {
       en: "Best for active businesses, gyms, clinics & stores needing reliable upkeep.",
@@ -443,7 +443,7 @@ export const PLANS_DATA: PlanItem[] = [
   {
     id: "growth",
     name: { en: "Growth & Scale", es: "Crecimiento y Escala" },
-    price: "$39",
+    price: "$49",
     period: { en: "/ month", es: "/ mes" },
     note: {
       en: "For dynamic websites and e-commerce requiring frequent updates and code tweaks.",
@@ -539,8 +539,8 @@ export const FAQS_DATA: FaqItem[] = [
       es: "¿Cómo funciona el plan mensual de cuidado y mantenimiento web?",
     },
     answer: {
-      en: "It's simple and flexible: Choose a plan ($10, $19, or $39/mo). Whenever you need an update (text, prices, banners, FAQ, bug fix, or security check), message me on WhatsApp or email. I complete it within 24-48 hours. Cancel or upgrade anytime with zero lock-in.",
-      es: "Es muy sencillo y flexible: Eliges un plan ($10, $19 o $39/mes). Cuando necesites un cambio (textos, precios, banners, FAQs, corrección de errores o seguridad), me escribes por WhatsApp o correo. Lo resuelvo en 24-48 horas. Puedes cancelar o cambiar de plan cuando quieras sin permanencia.",
+      en: "It's simple and flexible: Choose a plan ($10, $29, or $49/mo). Whenever you need an update (text, prices, banners, FAQ, bug fix, or security check), message me on WhatsApp or email. I complete it within 24-48 hours. Cancel or upgrade anytime with zero lock-in.",
+      es: "Es muy sencillo y flexible: Eliges un plan ($10, $29 o $49/mes). Cuando necesites un cambio (textos, precios, banners, FAQs, corrección de errores o seguridad), me escribes por WhatsApp o correo. Lo resuelvo en 24-48 horas. Puedes cancelar o cambiar de plan cuando quieras sin permanencia.",
     },
   },
   {
@@ -704,7 +704,7 @@ export const UI_TEXT = {
     formEmail: "Your Business Email",
     formEmailPlaceholder: "e.g. john@company.com",
     formService: "What do you need help with?",
-    formServiceOption1: "Monthly Website Care ($10 - $39/mo)",
+    formServiceOption1: "Monthly Website Care ($10 - $49/mo)",
     formServiceOption2: "New Web App Development (Laravel / Node / React)",
     formServiceOption3: "Bug Fix / API Integration / Performance",
     formServiceOption4: "Other Project / Consultation",
@@ -837,7 +837,7 @@ export const UI_TEXT = {
     formEmail: "Tu Correo Electrónico",
     formEmailPlaceholder: "Ej: juan@empresa.com",
     formService: "¿En qué servicio estás interesado?",
-    formServiceOption1: "Mantenimiento Web Mensual ($10 - $39/mes)",
+    formServiceOption1: "Mantenimiento Web Mensual ($10 - $49/mes)",
     formServiceOption2: "Desarrollo de App Web (Laravel / Node / React)",
     formServiceOption3: "Corrección de Errores / APIs / Optimización",
     formServiceOption4: "Otro Proyecto / Consultoría Técnica",
