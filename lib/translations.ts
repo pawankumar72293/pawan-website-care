@@ -229,7 +229,32 @@ export const PROJECTS_DATA: ProjectItem[] = [
 
 export const EXPERIENCE_DATA: ExperienceItem[] = [
   {
-    period: "Apr 2024 - Present",
+    period: "Jul 2024 - Present",
+    company: "Independent Web & Software Engineering",
+    location: "Remote · Full-Stack & Website Care",
+    role: {
+      en: "Senior Full-Stack Consultant & Website Care Specialist",
+      es: "Consultor Full-Stack Senior y Especialista en Cuidado Web",
+    },
+    description: {
+      en: "Partnering directly with international businesses across the US, UK, Spain, and Europe to engineer scalable web platforms, custom APIs, and reliable monthly maintenance retainers.",
+      es: "Colaborando directamente con empresas internacionales de EE.UU., Reino Unido, España y Europa en el desarrollo de plataformas web escalables, APIs personalizadas y mantenimiento mensual continuo.",
+    },
+    achievements: {
+      en: [
+        "Delivered high-performance web applications and monthly support retainers for global clients.",
+        "Engineered custom Laravel, Node.js, and React solutions with payment processing and third-party APIs.",
+        "Maintained 99.8% client satisfaction with rapid 24-48 hour turnaround on production updates.",
+      ],
+      es: [
+        "Despliegue de aplicaciones web de alto rendimiento y contratos de soporte mensual para clientes globales.",
+        "Desarrollo de soluciones a medida con Laravel, Node.js y React con pasarelas de pago y APIs externas.",
+        "Tasa de satisfacción del 99.8% con entregas rápidas de actualizaciones en 24 a 48 horas.",
+      ],
+    },
+  },
+  {
+    period: "Apr 2024 - Jul 2024",
     company: "Jploft Solutions",
     location: "Jaipur, India · Full-Time",
     role: {
