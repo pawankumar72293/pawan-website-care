@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+html { scroll-behavior: smooth; }
+body { background: #f7f8f5; color: #10131a; }
+::selection { background: #c8f169; color: #10131a; }
+.container-wide { width: min(1160px, calc(100% - 40px)); margin-inline: auto; }
+.grid-dots {
+  background-image: radial-gradient(rgba(16,19,26,.12) 1px, transparent 1px);
+  background-size: 18px 18px;
+}
+.gradient-orb {
+  background: radial-gradient(circle, rgba(200,241,105,.34) 0%, rgba(200,241,105,0) 68%);
+}
